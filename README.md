@@ -1,1 +1,1 @@
-This is a test of VSCode's Git functionality. This is a test of branches. Test Change.
+This is a test of VSCode's Git functionality. This is a test of branches. Test change from Branch0 to merge into master.
